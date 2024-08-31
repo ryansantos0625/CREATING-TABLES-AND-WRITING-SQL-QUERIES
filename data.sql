@@ -1,9 +1,9 @@
 -- Inserted Records to User TABLE
-insert into Friends (UserID, Usernamedded, FirstName, LastName, DateOfBirth, Password, DateAdded) values (1, 'lyukhin0', 'Lusa', 'Yukhin', '4/29/2003', 'jV3,rO$+r', '3/2/2024');
-insert into Friends (UserID, Usernamedded, FirstName, LastName, DateOfBirth, Password, DateAdded) values (2, 'rhuske1', 'Rosabella', 'Huske', '3/24/2000', 'nO9@7\2dYOa$x', '10/11/2023');
-insert into Friends (UserID, Usernamedded, FirstName, LastName, DateOfBirth, Password, DateAdded) values (3, 'sbrownlie2', 'Susanetta', 'Brownlie', '9/26/2004', 'bI4"Xce6%k', '10/2/2024');
-insert into Friends (UserID, Usernamedded, FirstName, LastName, DateOfBirth, Password, DateAdded) values (4, 'fhollingdale3', 'Francine', 'Hollingdale', '10/21/2005', 'sT8+4m"H5z', '1/17/2023');
-insert into Friends (UserID, Usernamedded, FirstName, LastName, DateOfBirth, Password, DateAdded) values (5, 'bfreschini4', 'Boone', 'Freschini', '11/30/2005', 'eF8\I0b1B5', '8/11/2023');
+insert into Users (UserID, Username, FirstName, LastName, DateOfBirth, Password, DateAdded) values (1, 'emcdonogh0', 'Ethel', 'McDonogh', '1/7/2004', 'xB6,AmZ\b\lh*}a', '2/25/2023');
+insert into Users (UserID, Username, FirstName, LastName, DateOfBirth, Password, DateAdded) values (2, 'rdouglas1', 'Raoul', 'Douglas', '7/27/2003', 'rQ5%u`+lEca''', '3/24/2023');
+insert into Users (UserID, Username, FirstName, LastName, DateOfBirth, Password, DateAdded) values (3, 'vkelshaw2', 'Valerie', 'Kelshaw', '3/22/2001', 'bP1*T(#K+', '9/4/2023');
+insert into Users (UserID, Username, FirstName, LastName, DateOfBirth, Password, DateAdded) values (4, 'pologan3', 'Phillip', 'O''Logan', '12/4/2005', 'fO4.V1vJMd', '5/2/2024');
+insert into Users (UserID, Username, FirstName, LastName, DateOfBirth, Password, DateAdded) values (5, 'eyacob4', 'Evyn', 'Yacob', '11/24/2000', 'kE6<c&3A', '1/5/2024');
 
 -- 
 --Inserted Records to Posts TABLE
